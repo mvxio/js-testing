@@ -1,1 +1,9 @@
-# js-testing
+# lazyeager
+
+Usage:
+
+```
+npm install
+npm test
+```
+
