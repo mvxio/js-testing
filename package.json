@@ -1,0 +1,16 @@
+{
+  "name": "lazyeager",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vladimir Maximov",
+  "license": "ISC"
+}
